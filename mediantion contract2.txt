@@ -1,0 +1,20 @@
+In most cases, parties won't rewrite their entire smart contract logic to accommodate this new system. Instead:
+
+They'll stick with traditional contract structures.
+The Mediation Contract (or Judge) will kick in when disputes arise.
+By having a separate mediation mechanism:
+
+Faulty code issues are minimized: Even if coding errors cause problems between contracts, the Mediator can resolve them automatically.
+Disputes become less likely: Clear rules and conditions for each party's contract reduce conflict-prone situations.
+This setup means that most transactions will continue to work as they do now. The added benefit of a mediation mechanism ensures:
+
+Dispute resolution automation: Conflicts are resolved quickly, reducing the need for manual intervention.
+Code reliability enhancement: Even if faulty code causes issues between contracts, automatic dispute resolution minimizes their impact.
+Your point about adding specific terms manually within each contract is also valid:
+
+Parties can include custom clauses or conditions to address unique needs.
+However:
+
+The primary benefit of this system lies in the mediation mechanism.
+Most transactions will still rely on traditional smart contracts with minimal changes.
+By focusing on improving dispute resolution through a separate Mediation Contract, we're creating an automated conflict-resolution framework that complements existing contract structures
